@@ -1,0 +1,69 @@
+```
+# Flutter/Dart
+.dart_tool/
+.build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.ios/
+.android/
+linux/flutter/ephemeral
+macos/flutter/ephemeral
+windows/flutter/ephemeral
+**/ios/Flutter/.last_build_id
+**/lib/**/generated_plugin_registrant.dart
+
+# Build directories
+build/
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+**/logs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+*.DS_Store
+._*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.swp
+.swo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Coverage
+coverage/
+*.lcov
+
+# Debug
+*.stackdump
+
+# Packages
+.pub-cache/
+.dart_tool/
+**/ios/.symlinks
+**/macos/.symlinks
+**/windows/.symlinks
+
+# Distribution
+*.zip
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+*.tar.zst
+```
